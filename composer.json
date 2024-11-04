@@ -1,0 +1,11 @@
+{
+    "name": "fujitsu/test",
+    "autoload": {
+        "psr-4": {
+            "Fujitsu\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
